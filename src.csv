@@ -1,0 +1,6 @@
+8.8.8.8,202.38.64.0/24,www.qq.com,A
+114.114.114.114,202.38.64.0/24,www.qq.com,A
+8.8.8.8,202.38.64.0/24,o-o.myaddr.l.google.com,TXT
+114.114.114.114,202.38.64.0/24,o-o.myaddr.l.google.com,TXT
+114.114.114.114,,o-o.myaddr.l.google.com,TXT
+8.8.8.8,,o-o.myaddr.l.google.com,TXT

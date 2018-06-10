@@ -1,0 +1,6 @@
+114.114.114.114,202.38.64.0/24,www.qq.com,A,NOERROR,answer:www.qq.com.|37|IN|A|117.135.169.41
+114.114.114.114,,o-o.myaddr.l.google.com,TXT,NOERROR,answer:o-o.myaddr.l.google.com.|30|IN|TXT|117.135.169.142
+114.114.114.114,202.38.64.0/24,o-o.myaddr.l.google.com,TXT,NOERROR,answer:o-o.myaddr.l.google.com.|30|IN|TXT|117.135.169.142
+8.8.8.8,202.38.64.0/24,o-o.myaddr.l.google.com,TXT,NOERROR,answer:o-o.myaddr.l.google.com.|59|IN|TXT|172.217.46.15;answer:o-o.myaddr.l.google.com.|59|IN|TXT|"edns0-client-subnet 39.190.51.8/32"
+8.8.8.8,,o-o.myaddr.l.google.com,TXT,NOERROR,answer:o-o.myaddr.l.google.com.|59|IN|TXT|172.217.46.3;answer:o-o.myaddr.l.google.com.|59|IN|TXT|"edns0-client-subnet 39.190.51.8/32"
+8.8.8.8,202.38.64.0/24,www.qq.com,A,NOERROR,answer:www.qq.com.|299|IN|A|117.135.169.41
